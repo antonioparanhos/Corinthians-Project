@@ -1,0 +1,123 @@
+.cabecalho .imagem-timao img{
+    width: 100px;
+}
+
+body{
+    background-color: black;
+}
+
+.cabecalho{
+    display: flex;
+    gap: 30px;
+    background-color: black;
+    color: #fff;
+}
+
+.lista-de-links{
+    display: flex;
+    gap: 50px;
+    margin-top: 35px;
+    margin-right: 50px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.cabecalho .lista-de-links li a{
+    color: #fff;
+}
+
+.cadastrar{
+    background-color: #fff;
+    color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.cadastrar:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.titulo1{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.titulo2{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: #fff;  
+}
+
+.ladodireito{
+    display: flex;
+    margin-top: 50px;
+}
+
+.paragrafo1{
+    margin: 15px;
+    font-weight: 700;
+    font-size: 25px;
+    background-color: #000;
+    color: #fff;
+    text-align: left;
+    line-height: 30px;
+}
+
+.melhoresmomentos{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.botaoexplorar{
+     background-color: #fffb00; /* cor de fundo */
+     color: #000000; /* cor do texto */
+     border: none; /* borda */
+     padding: 10px;
+     border-radius: 20px;
+     cursor: pointer;
+     margin: 15px;
+     font-size: 18px;
+     font-style: inherit;
+
+}
+
+.paragrafo2{
+    font-size: 28px;
+    font-weight: 600;
+    color: red;
+}
+
+.colunatres ul li{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 900;
+    color: #fff;
+
+}
+
+.paragrafo3{
+    margin-top: 25px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.timaoclipe{
+    margin-right: 18px;
+}
